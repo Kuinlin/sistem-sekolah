@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1 class="text-red=500">Daftar Siswa</h1>
+    <h1 class="text-red-500">Daftar Siswa</h1>
     <p>Menampilkan Daftar Diswa</p>
 </body>
 
